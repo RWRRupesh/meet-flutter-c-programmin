@@ -1,0 +1,22 @@
+1-What is Operators..???
+dennis retchie build some basic function and operators,
+c has many type operators...
+
+1- arithmatic operators:- +,-,*,/,
+%=moduler its used to find reminder,
+1+1=2
+2-1=1
+2*1=2
+2/1=2
+3%2=1
+
+2-relational operators..
+>,<,==,!=
+
+3-conditional operators...
+?:
+
+4-logical operators..
+&& logical and.	all condition must be true
+
+|| logical or..	 one of the condition must be true..
