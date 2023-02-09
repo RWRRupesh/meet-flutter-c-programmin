@@ -1,0 +1,18 @@
+1-What is data type..???
+mainly there are three types of datatype in higher level language,
+words,		char, string		%c,	%s
+number,		integer, float, double,	%d	%f
+		100	100.50	100.05
+boolean,	true, false
+
+2-what is variables..??
+variable is contianer that hold the value,
+
+3-what is constant..?
+value variable can't be change...
+
+4-what is keywords..?
+in c language many word have fix meaning,
+
+5-how to get input from user..??
+scanf(); used to get input from user and assign to varible,
