@@ -1,0 +1,26 @@
+1-What is Programming Language..???
+human beings used language,know as higher level language,but computer cant understand this language,
+computer understand machine level language, 0-1 binary language
+
+its set of instruction, and tell the computer perform the task....
+
+2-how many types of programming language and what is the use of it..??
+c,c++,java,python,r language,php etc...in IT..with help of p.l you can create softwares,websites, web-applications,mobile applications...
+
+3-history of c language..???
+dennis retchie introduce c language in 1972, bell laborotary....
+
+4-what are the importance of C language..???
+portable application developing 
+faster 
+inbuilt functions and operators...
+
+5-how and where to write c program..??
+turbo c++ 
+
+6-what is compiler and interpreter...???
+to translate higher level language into machine level language,
+
+7-what is the diffrence b\w compiler and interpreter..?
+compiler at time entire code translate in machine level language...
+intrepreter at time single line code tranlate...
